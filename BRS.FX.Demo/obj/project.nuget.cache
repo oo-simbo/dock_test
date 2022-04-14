@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mV3OP6HBiVTxzqgiRByzLwdDhLK+v/IPblUFi2LJ1W73sPpUHg6Kd5Uf8zrWyKO7BG4JII1zwf+QyQflKRAlag==",
+  "success": true,
+  "projectFilePath": "F:\\Sourcecode\\SimboAutomation\\src\\BRS.FX.Demo\\BRS.FX.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max56\\.nuget\\packages\\krypton.docking\\65.22.4.94\\krypton.docking.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Max56\\.nuget\\packages\\krypton.navigator\\65.22.4.94\\krypton.navigator.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Max56\\.nuget\\packages\\krypton.ribbon\\65.22.4.94\\krypton.ribbon.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Max56\\.nuget\\packages\\krypton.toolkit\\65.22.4.94\\krypton.toolkit.65.22.4.94.nupkg.sha512",
+    "C:\\Users\\Max56\\.nuget\\packages\\krypton.workspace\\65.22.4.94\\krypton.workspace.65.22.4.94.nupkg.sha512"
+  ],
+  "logs": []
+}
